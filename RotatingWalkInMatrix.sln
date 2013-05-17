@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustMatrix", "JustMatrix\JustMatrix.csproj", "{41E9D4E4-66E8-4791-96B3-751408FBF9D7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JustMatrixTests", "JustMatrixTests\JustMatrixTests.csproj", "{7A12D250-3BEE-48F9-B550-3492DC25BCFE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{41E9D4E4-66E8-4791-96B3-751408FBF9D7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E9D4E4-66E8-4791-96B3-751408FBF9D7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E9D4E4-66E8-4791-96B3-751408FBF9D7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E9D4E4-66E8-4791-96B3-751408FBF9D7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A12D250-3BEE-48F9-B550-3492DC25BCFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A12D250-3BEE-48F9-B550-3492DC25BCFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A12D250-3BEE-48F9-B550-3492DC25BCFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A12D250-3BEE-48F9-B550-3492DC25BCFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
